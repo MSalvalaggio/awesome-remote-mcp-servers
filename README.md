@@ -190,6 +190,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cloudflare Browser Rendering](https://developers.cloudflare.com/browser-rendering/) `https://browser.mcp.cloudflare.com/mcp`
   🔐 - Render pages, capture screenshots, and scrape HTML from a URL.
 
+- [Framejet](https://framejet.dev) `https://framejet.dev/mcp`
+  [![Framejet MCP connector](https://glama.ai/mcp/connectors/dev.framejet/screenshot/badges/score.svg)](https://glama.ai/mcp/connectors/dev.framejet/screenshot)
+  🔑 - Screenshot any URL to PNG or JPEG with cookie banners and chat widgets removed before capture.
+
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
 - [AgentsPodium Hosting](https://hosting.defispace.com/docs/mcp.html) `https://mcp.agentspodium.com/mcp`
